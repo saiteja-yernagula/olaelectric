@@ -711,7 +711,10 @@ margin-left:1rem;
   height:2.5rem;
 }
 
-
+#fixi img{
+  width:2rem;
+  height:3rem;
+}
 
 
 
@@ -728,6 +731,10 @@ margin-left:1rem;
 }
 #fixi img{
   width:5rem;
+}
+#fixi img{
+  width:2rem;
+  height:3rem;
 }
 .limg2{
     width:35rem;
